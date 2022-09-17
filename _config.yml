@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jushan (Randy) Chen"
 title_separator          : "-"
 name                     : &name "Jushan (Randy) Chen"
-description              : &description
+description              : &description "I graduated with a B.S. in aerospace engineering at University of Illinois Urbana- Champaign. Currently, I am a graduate student and research assistant in the same department at the same institution."
 url                      : https://randychen233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "randychen233/randychen233.github.io"
