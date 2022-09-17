@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jushan (Randy) Chen"
 title_separator          : "-"
 name                     : &name "Jushan (Randy) Chen"
-description              : &description "I graduated with a B.S. in aerospace engineering at University of Illinois Urbana- Champaign. Currently, I am a graduate student and research assistant in the same department at the same institution."
+description              : &description
 url                      : https://randychen233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "randychen233/randychen233.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jushan (Randy) Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              :  "I graduated with a B.S. in aerospace engineering at University of Illinois Urbana- Champaign. Currently, I am a graduate student and research assistant in the same department at the same institution."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
