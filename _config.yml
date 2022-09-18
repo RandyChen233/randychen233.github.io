@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &RandyChen233
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RandyChen233?tab=repositories"
+  github           : "RandyChen233"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "in/jushan-randy-chen-b205131b7/"
+  linkedin         : "jushan-randy-chen"
   orcid            : "https://orcid.org/0000-0002-4491-3640"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "&RandyChen233
+  twitter          : "RandyChen233"
   vine             :
   weibo            :
   xing             :
