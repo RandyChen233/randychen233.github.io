@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer, Fall 2022: Research Assistant
-  * University of Illinois Urbana-Champaign
+  * University of Illinois Urbana-Champaign, Champaign, IL, USA
   * Supervisor: Professor Negar Mehr
   * Worked on distributed model predictive control for multi-agent systems; resulted in a conference paper submitted to ICRA 2023 (review in progress)
 
