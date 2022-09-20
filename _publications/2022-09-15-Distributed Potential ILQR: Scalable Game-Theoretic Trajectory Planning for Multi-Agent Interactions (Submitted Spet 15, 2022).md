@@ -1,20 +1,23 @@
 ---
-title: "Distributed Potential ILQR: Scalable Game-Theoretic Trajectory
+title: "Distributed Potential ILQR: Scalable Game-Theoretic Trajectory\
 Planning for Multi-Agent Interactions (Submitted Spet 15, 2022)"
 collection: publications
 permalink: /publication/2022-09-15-Distributed Potential ILQR: Scalable Game-Theoretic Trajectory Planning for Multi-Agent Interactions (Submitted Spet 15, 2022)
 excerpt: 'In this work, we develop a scalable trajectory opti-mization algorithm that enables robots to interact with multiplehumans and robots'
 date: 2022-09-15
 venue: 'IEEE International Conference on Robotics and Automation (ICRA 2023)'
----
-<!-- paperurl: 'http://academicpages.github.io/files/paper1.pdf' -->
-<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+
+
+
 
 
 
