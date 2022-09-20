@@ -9,6 +9,7 @@ mization algorithm that enables robots to interact with multiple
 humans and robots'
 date: 2022-09-15
 venue: 'IEEE International Conference on Robotics and Automation (ICRA 2023)'
+---
 <!-- paperurl: 'http://academicpages.github.io/files/paper1.pdf' -->
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 <!-- --- -->
