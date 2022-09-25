@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Blogs"
-    url: /posts/
+#   - title: "Blogs"
+#     url: /posts/
