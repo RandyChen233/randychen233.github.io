@@ -86,36 +86,21 @@ author:
                      
   location         : "Urbana, IL, USA"
   employer         :
-  pubmed           : 
   googlescholar    :
   email            : "jushanc2@illinois.edu"
   researchgate     : 
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "RandyChen233"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
   linkedin         : "jushan-randy-chen-b205131b7"
   orcid            : "https://orcid.org/0000-0002-4491-3640"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
   twitter          : "RandyChen233"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
+  links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf" 
+      url: "/assets/files/Jushan_Chen_resume.pdf"
+  
+
 
 
 # Reading Files
