@@ -13,4 +13,4 @@ main:
     url: /_pages/CV.pdf/
     
   - title: "Blogs"
-    url: /_posts/
+    url: /_posts/post-1.md/
