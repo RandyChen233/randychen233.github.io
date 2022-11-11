@@ -1,20 +1,9 @@
 ---
-title: 'Some thoughts on intimate relationships'
-date: 2022-09-24    
+title: 'Some thoughts on distributed optimization'
+date: 2022-11-10
 permalink: /posts/post-1.md
 tags:
-  - cool posts
-  - category1
-  - category2
+  - optimization methods
+
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
