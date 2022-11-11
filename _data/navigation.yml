@@ -9,8 +9,8 @@ main:
   - title: "Teachings"
     url: /teaching/
     
-  - title: "CV"
-    url: /_pages/CV.pdf/
+#   - title: "CV"
+#     url: /_pages/CV.pdf/
     
-  - title: "Blogs"
-    url: /_posts/post-1.md/
+#   - title: "Blogs"
+#     url: /_posts/post-1.md/
