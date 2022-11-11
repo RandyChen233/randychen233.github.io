@@ -1,11 +1,11 @@
 ---
-title: "Distributed Potential ILQR: Scalable Game-Theoretic Trajectory Planning for Multi-Agent Interactions"
+title: "Distributed Potential ILQR: Scalable Game-Theoretic Trajectory Planning for Multi-Agent Interactions (Review in progress)"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'In this work, we develop a scalable trajectory optimization algorithm that enables robots to interact with multiple humans and robots. It has been shown that agents' interactions can be successfully captured in game-theoretic formulations where the interaction outcome can be best modeled via the equilibria of the game. However, it is typically challenging to compute the equilibria of games, and existing solvers operate in a centralized fashion and do not scale up tractably to multiple interacting agents. We enable scalable distributed game-theoretic planning by leveraging the structure inherent in multi-agent interactions, namely, interactions belonging to the class of potential games. Since equilibria of potential games can be found by minimizing a single potential function, we can apply distributed and decentralized control techniques to seek equilibria of multi-agent interactions in a scalable and distributed fashion. We compare the performance of our algorithm with a centralized interactive planner in a number of simulation studies and demonstrate that our algorithm results in better efficiency and scalability. We further evaluate our method in hardware experiments involving multiple quadcopters and human agents.
-'
-date: Submitted 2022-09-15
-venue: 'IEEE ICRA'
+excerpt: 'In this work, we develop a scalable trajectory optimization algorithm that enables robots to interact with multiple humans and robots. It has been shown that agents' interactions can be successfully captured in game-theoretic formulations where the interaction outcome can be best modeled via the equilibria of the game. However, it is typically challenging to compute the equilibria of games, and existing solvers operate in a centralized fashion and do not scale up tractably to multiple interacting agents. We enable scalable distributed game-theoretic planning by leveraging the structure inherent in multi-agent interactions, namely, interactions belonging to the class of potential games. Since equilibria of potential games can be found by minimizing a single potential function, we can apply distributed and decentralized control techniques to seek equilibria of multi-agent interactions in a scalable and distributed fashion. We compare the performance of our algorithm with a centralized interactive planner in a number of simulation studies and demonstrate that our algorithm results in better efficiency and scalability. We further evaluate our method in hardware experiments involving multiple quadcopters and human agents.'
+date: 2022-09-15
+venue: 'IEEE ICRA 2023'
+---
 <!-- paperurl: 'http://academicpages.github.io/files/paper1.pdf' -->
 <!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
----
+
