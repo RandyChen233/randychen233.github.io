@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jushan and I come from mainland China. I came to the U.S. since the age of 16 as an international student, went to [high school](https://www.hammondschool.org/) in Columbia, South Carolina, and gradauted with a B.S. in aerospace engineering at [University of Illinois Urbana-Champaign](https://aerospace.illinois.edu/). 
+My name is Jushan and I originally come from mainland China. I came to the U.S. at the age of 16 as an international student, went to [high school](https://www.hammondschool.org/) in Columbia, South Carolina, and graduated with a B.S. in aerospace engineering at [University of Illinois Urbana-Champaign](https://aerospace.illinois.edu/). 
 
-As of now, I am a first-year graduate student at [University of Illinois Urbana-Champaign](https://aerospace.illinois.edu/). I currently hold a 50-percent graduate research assistanship appointment provided by my advisor [Prof Negar Mehr](http://negar.web.illinois.edu/). My primary area of research focuses on distributed trajectory optimization for multi-agent systems.
+As of now, I am a graduate student in the Department of Aerospace Engineering at [University of Illinois Urbana-Champaign](https://aerospace.illinois.edu/). I hold a 50-percent graduate research assistantship appointment provided by my advisor [Prof Negar Mehr](http://negar.web.illinois.edu/). My primary area of research focuses on distributed trajectory optimization for multi-agent systems.
 
-Please do refer to my [CV](https://randychen233.github.io/cv/) for a more in-depth background of me.
+Please refer to my [CV](https://randychen233.github.io/cv/) for a more in-depth background.
