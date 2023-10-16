@@ -12,4 +12,4 @@ My name is Jushan Chen and I originally come from mainland China. I came to the 
 
 As of now, I am a graduate student in the Department of Aerospace Engineering at [University of Illinois Urbana-Champaign](https://aerospace.illinois.edu/). I am working under the guidance of [Dr. Negar Mehr](http://negar.web.illinois.edu/). My research interests include multi-agent trajectory planning, deep visual SLAM, and robotics in general.
 
-Please refer to my [CV](https://randychen233.github.io/cv/) for a more in-depth background.
+Please refer to my [CV](https://randychen233.github.io/cv/) for more details.
